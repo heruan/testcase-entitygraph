@@ -1,11 +1,11 @@
-package hibernate.testcase.entitygraph.entity;
+package org.hibernate.bugs.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 @Entity
-public class Product {
+public class Tag {
 
     @Id
     @GeneratedValue

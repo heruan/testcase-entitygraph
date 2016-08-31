@@ -1,4 +1,4 @@
-package hibernate.testcase.entitygraph.entity;
+package org.hibernate.bugs.entity;
 
 import java.util.List;
 

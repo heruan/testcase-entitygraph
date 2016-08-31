@@ -25,6 +25,7 @@ public class Application {
         application.setup();
         application.populate();
         application.run();
+        System.exit(0);
     }
 
     public void setup() {

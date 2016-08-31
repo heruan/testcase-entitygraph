@@ -1,11 +1,11 @@
-package to.lova.hibernate.testcase.entitygraph.entity;
+package hibernate.testcase.entitygraph.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 @Entity
-public class Tag {
+public class Product {
 
     @Id
     @GeneratedValue

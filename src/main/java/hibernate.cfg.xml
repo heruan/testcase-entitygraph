@@ -19,9 +19,9 @@
         <property name="hbm2ddl.auto">create</property>
         <property name="hibernate.globally_quoted_identifiers">true</property>
 
-        <mapping class="to.lova.hibernate.testcase.entitygraph.entity.Order" />
-        <mapping class="to.lova.hibernate.testcase.entitygraph.entity.Product" />
-        <mapping class="to.lova.hibernate.testcase.entitygraph.entity.Tag" />
+        <mapping class="hibernate.testcase.entitygraph.entity.Order" />
+        <mapping class="hibernate.testcase.entitygraph.entity.Product" />
+        <mapping class="hibernate.testcase.entitygraph.entity.Tag" />
 
     </session-factory>
 

@@ -34,7 +34,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>1.5.0</version>
                 <configuration>
-                    <mainClass>to.lova.hibernate.testcase.entitygraph.Application</mainClass>
+                    <mainClass>hibernate.testcase.entitygraph.Application</mainClass>
                 </configuration>
             </plugin>
         </plugins>

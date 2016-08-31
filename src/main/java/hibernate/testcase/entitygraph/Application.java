@@ -1,4 +1,4 @@
-package to.lova.hibernate.testcase.entitygraph;
+package hibernate.testcase.entitygraph;
 
 import java.util.List;
 
@@ -14,7 +14,7 @@ import org.hibernate.boot.registry.StandardServiceRegistry;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.jpa.QueryHints;
 
-import to.lova.hibernate.testcase.entitygraph.entity.Order;
+import hibernate.testcase.entitygraph.entity.Order;
 
 public class Application {
 

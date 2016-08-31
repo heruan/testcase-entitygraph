@@ -1,4 +1,4 @@
-package to.lova.hibernate.testcase.entitygraph.entity;
+package hibernate.testcase.entitygraph.entity;
 
 import java.util.List;
 
